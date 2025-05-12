@@ -2,7 +2,7 @@
 
 
 	•	Shark fins.jpg
-	•	Yzx
+	•	NOAA
 	•	https://commons.wikimedia.org/wiki/File:Shark_fins.jpg#Licensing
 	•	“Licensed under CC BY‑SA 4.0” with a link to https://creativecommons.org/licenses/by-sa/4.0/
 
@@ -12,8 +12,8 @@ Global license for CC BY-SA 4.0 link: https://creativecommons.org/licenses/by-sa
 # FinShield-
 
 
-	•	Shark finning.jpg -- Mbour (Senegal)
-	•	Sebastián Losada
+	•	Shark fins Hong Kong
+	•	Citron
 	•	https://commons.wikimedia.org/wiki/File:Shark_fins.jpg#Licensing
 	•	“Licensed under CC BY‑SA 4.0” with a link to https://creativecommons.org/licenses/by-sa/4.0/
 
@@ -25,8 +25,8 @@ Global license for CC BY-SA 4.0 link: https://creativecommons.org/licenses/by-sa
 # FinShield-
 
 
-	•	Shark fin.jpg
-	•	Sebastián Losada
+	•	Shark finning.jpg
+	•	Mbour (Senegal)
 	•	https://commons.wikimedia.org/wiki/File:Shark_fins.jpg#Licensing
 	•	“Licensed under CC BY‑SA 4.0” with a link to https://creativecommons.org/licenses/by-sa/4.0/
 
@@ -46,13 +46,3 @@ Global license for CC BY-SA 4.0 link: https://creativecommons.org/licenses/by-sa
 
 Global license for CC BY-SA 4.0 link: https://creativecommons.org/licenses/by-sa/4.0/
 
-
-
-# FinShield-
-
-
-	•	Shark fins Hong Kong.jpg
-	•	Citron
-	•https://commons.wikimedia.org/wiki/File:Shark_fins_Hong_Kong.jpg#Licensing
- 
-Global license for CC BY-SA 4.0 link: https://creativecommons.org/licenses/by-sa/4.0/
